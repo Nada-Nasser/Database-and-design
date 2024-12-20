@@ -1,6 +1,5 @@
 
-![[PetsCare_MY_ERD.png]]
-
+![ERD](PetsCare_MY_ERD.png)
 
 ### **Summary of Relationships**:
 
