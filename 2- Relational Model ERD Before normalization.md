@@ -1,7 +1,9 @@
 
 ### ER Diagram
 
-![[Pasted image 20241218234841.png]]
+![ERD](ERD.png)
+
+
 ### Relational Model
 
 #### 1. **Customers Table**
